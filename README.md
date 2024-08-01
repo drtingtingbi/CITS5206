@@ -1,11 +1,18 @@
-# Welcome to CITS5206. CITS5206 is the capstone unit for the Masters of Information Technology program.
+### Weclome
+
+Welcome to CITS5206. CITS5206 is the capstone unit for the Masters of Information Technology program. All learning material for this unit can be accessed from these pages. Click on the About link in the navigation bar for more details on what a capstone unit is and its role in the context of the Masters of Information Technology program.
+
+### Introduction
+
+The main activity in CITS5206 is the development of a software project for an industry client undertaken by a group of students. See the Projects-Offered-2024to review the projects offered this year. Projects and teams will be assigned by the unit coordinator to achieve a balance of skills, aptitudes and student preferences for the projects. The project will be delivered within the 12-week semester, plus a study break (there is no final exam for this unit).
 
 ## Contact
 
 - Unit Co-ordinator: Dr Tingting Bi (Tingting.Bi@uwa.au)
 - Location: G14 CSSE Building
+- 3 hours per week workshop for professional skills workshops, feedback and group meetings.
 
-# Project-offered 2024
+## Project-offered 2024
 
 <details>
 
