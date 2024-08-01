@@ -441,4 +441,4 @@ Client:
 Paul Sigar, CEO, paul.sigar@aasyp.org (Lead contact); Icely Dy, CMO, icely.recatody@aasyp.org (for cc purposes)
 
 
-</details>![image](https://github.com/user-attachments/assets/7e287136-3ac8-4230-a698-8d56c2d0a349)
+</details>!
